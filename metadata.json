@@ -1,0 +1,6 @@
+{
+  "name": "SIPERSIP - Sistem Penyimpanan Arsip",
+  "description": "Sistem Penyimpanan Arsip Digital berbasis klasifikasi arsip dan Jadwal Retensi Arsip (JRA) untuk pengelolaan surat masuk dan surat keluar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
